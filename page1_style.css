@@ -1,0 +1,18 @@
+*{
+    font-family:'Lucida Sans'; 
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+body{
+    background-color: rgb(238, 238, 238);
+}
+.date{
+    font-size: 45px; 
+    color: rgb(107, 107, 107); 
+}
+.time{
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(255, 94, 231); 
+}
